@@ -1,0 +1,148 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "name": "wHz-93",
+      "health": 94,
+      "damage": 20,
+      "armor": 63,
+      "bot_class": "Support",
+      "catchphrase": "1010010101001101100011000111101",
+      "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.800Z",
+      "updated_at": "2018-10-02T19:55:10.800Z"
+    },
+    {
+      "id": 2,
+      "name": "RyM-66",
+      "health": 86,
+      "damage": 36,
+      "armor": 77,
+      "bot_class": "Medic",
+      "catchphrase": "0110011100000100011110100110011000011001",
+      "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 3,
+      "name": "SUN-76",
+      "health": 92,
+      "damage": 42,
+      "armor": 55,
+      "bot_class": "Assault",
+      "catchphrase": "100101010101010101010101010101",
+      "avatar_url": "https://robohash.org/assaultbot.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 4,
+      "name": "DEF-99",
+      "health": 88,
+      "damage": 25,
+      "armor": 90,
+      "bot_class": "Defender",
+      "catchphrase": "I defend therefore I am",
+      "avatar_url": "https://robohash.org/defenderbot.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 5,
+      "name": "CAP-01",
+      "health": 95,
+      "damage": 50,
+      "armor": 70,
+      "bot_class": "Captain",
+      "catchphrase": "I'm the captain now",
+      "avatar_url": "https://robohash.org/captainbot.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 6,
+      "name": "WTC-88",
+      "health": 82,
+      "damage": 45,
+      "armor": 60,
+      "bot_class": "Witch",
+      "catchphrase": "Double double toil and trouble",
+      "avatar_url": "https://robohash.org/witchbot.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 7,
+      "name": "MEC-42",
+      "health": 75,
+      "damage": 55,
+      "armor": 65,
+      "bot_class": "Support",
+      "catchphrase": "Beep boop beep",
+      "avatar_url": "https://robohash.org/supportbot2.png?size=300x300&set=set1",
+      "created_at": "2018-10-03T10:15:22.123Z",
+      "updated_at": "2018-10-03T10:15:22.123Z"
+    },
+    {
+      "id": 8,
+      "name": "DOC-33",
+      "health": 89,
+      "damage": 30,
+      "armor": 72,
+      "bot_class": "Medic",
+      "catchphrase": "I'll fix you up",
+      "avatar_url": "https://robohash.org/medicbot2.png?size=300x300&set=set1",
+      "created_at": "2018-10-03T10:15:22.123Z",
+      "updated_at": "2018-10-03T10:15:22.123Z"
+    },
+    {
+      "id": 9,
+      "name": "ATK-77",
+      "health": 91,
+      "damage": 60,
+      "armor": 40,
+      "bot_class": "Assault",
+      "catchphrase": "Attack is the best defense",
+      "avatar_url": "https://robohash.org/assaultbot2.png?size=300x300&set=set1",
+      "created_at": "2018-10-03T10:15:22.123Z",
+      "updated_at": "2018-10-03T10:15:22.123Z"
+    },
+    {
+      "id": 10,
+      "name": "WAL-99",
+      "health": 85,
+      "damage": 20,
+      "armor": 95,
+      "bot_class": "Defender",
+      "catchphrase": "None shall pass",
+      "avatar_url": "https://robohash.org/defenderbot2.png?size=300x300&set=set1",
+      "created_at": "2018-10-03T10:15:22.123Z",
+      "updated_at": "2018-10-03T10:15:22.123Z"
+    },
+    {
+      "id": 11,
+      "name": "COM-55",
+      "health": 93,
+      "damage": 45,
+      "armor": 75,
+      "bot_class": "Captain",
+      "catchphrase": "All hands on deck",
+      "avatar_url": "https://robohash.org/captainbot2.png?size=300x300&set=set1",
+      "created_at": "2018-10-03T10:15:22.123Z",
+      "updated_at": "2018-10-03T10:15:22.123Z"
+    },
+    {
+      "id": 12,
+      "name": "HEX-66",
+      "health": 80,
+      "damage": 50,
+      "armor": 65,
+      "bot_class": "Witch",
+      "catchphrase": "Eye of newt and toe of frog",
+      "avatar_url": "https://robohash.org/witchbot2.png?size=300x300&set=set1",
+      "created_at": "2018-10-03T10:15:22.123Z",
+      "updated_at": "2018-10-03T10:15:22.123Z"
+    }
+  ]
+}
